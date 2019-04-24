@@ -61,7 +61,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^23.6.0",
     "codecov": "^3.1.0",
-    "husky": "^1.1.2",
+    "husky": "^2.0.0",
     "jest": "^23.6.0",
     "lint-staged": "^8.1.0",
     "npm-run-all": "^4.1.3",
